@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello from local repository");
         System.out.println("Hello from remote repoistory");
         System.out.println("changed master branch in remote");
+        System.out.println("feature 1 working successfully ");
     }
 }
